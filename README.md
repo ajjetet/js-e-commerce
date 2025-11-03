@@ -1,10 +1,8 @@
 # js-ecommerce (nodejs)
-a simple nodejs ecommerce website where products are displayed and you can add products to cart and view checkout section
+a simple Node.js eCommerce website where products are displayed, you can add them to a shopping cart, and view the checkout section.
 
 # website link
 https://limbuajjet.com/ecommerce-project
 
 # dependencies
-  "express": "^5.1.0",
-  "better-sqlite3": "^12.4.1",
-  "cors": "^2.8.5"
+all dependencies are listed in package.json file
